@@ -1,6 +1,14 @@
 # flutter_google_auth
 
-A new Flutter application.
+A sample Firebase Google Auth implementation.
+
+<table>
+	<tr>
+		<td><img src="https://github.com/ShriLingam23/flutter_google_auth/blob/master/assets/1.png" height="500"></td>
+		<td><img src="https://github.com/ShriLingam23/flutter_google_auth/blob/master/assets/2.png" height="500"></td>
+		<td><img src="https://github.com/ShriLingam23/flutter_google_auth/blob/master/assets/3.png" height="500"></td>
+	</tr>
+</table>
 
 ## Getting Started
 
