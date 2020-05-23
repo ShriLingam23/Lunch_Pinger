@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import './sign_in.dart';
-import './FirstScreen.dart';
+import './GoogleSignIn.dart';
+import 'Pages/FirstScreen.dart';
 
 class LoginPage extends StatefulWidget {
   @override
