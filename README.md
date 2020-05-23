@@ -1,4 +1,5 @@
-# flutter_google_auth
+# Lunch Pinger App
+Detailed Report - https://github.com/ShriLingam23/flutter_google_auth/blob/development/IT17706438.pdf
 
 <table>
 	<tr>
